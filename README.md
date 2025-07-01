@@ -18,6 +18,5 @@ A simple and elegant **photo gallery web application** built using HTML and CSS.
 
 - **HTML5** – for the structure of the webpage  
 - **CSS3** – for styling and responsive layout  
-- **JavaScript** – for interactivity like lightbox popup
 
 ---
