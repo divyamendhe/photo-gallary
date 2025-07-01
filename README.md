@@ -1,6 +1,6 @@
 📸 Photo Gallary
 
-A simple and elegant **photo gallery web application** built using HTML, CSS, and JavaScript. This project showcases a clean UI for displaying a collection of images in an organized grid layout with lightbox preview functionality.
+A simple and elegant **photo gallery web application** built using HTML and CSS. This project showcases a clean UI for displaying a collection of images in an organized grid layout with lightbox preview functionality.
 
 ---
 
